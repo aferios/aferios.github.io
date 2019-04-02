@@ -1,2 +1,3 @@
 name: Alex Rios
 markdown: rmarkdown
+permalink: /blog/:year/:month/:day/:title
