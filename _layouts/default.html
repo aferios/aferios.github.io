@@ -1,32 +1,13 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/assets/Resume 2019.pdf">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div id='header'>
-			<a href=''><img src='../assets/pictures/yosh_av.jpg' alt='AV' /></a>
-			</div><!--header-->
-			<div class="container">
-				
-			{{content here}}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        	<!--	<li><a href="mailto:alex.f.rios@gmail.com">email</a></li	IN CASE YOU WANT SPAM-->
-	        		<li><a href="https://github.com/aferios">github.com/aferios</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<!doctype html>
+<html ⚡ lang="en">
+  {% include head.html %}
+  <body>
+    {% if page.avatar %}{% include header.html avatar="true" %} {% else %} {% include header.html %} {% endif %}
+    <div class="page-content {% if page.layout == 'default-author' %}default{%endif%}">
+      <div class="wrapper">
+        {{ content | replace: '<img', '<amp-img layout="responsive"' }}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
