@@ -15,7 +15,7 @@ As for the things I like to do outside academics, I enjoy participating in Muay 
 The arcade games I mainly play, in order of preference, are Pump It Up Prime series, DDRA20, SoundVoltex VividWave, and ITG. 
 As an aside, if anyone is looking to get into any of these games and feels the cabinet is being hogged, please do not hesitate to ask the player if you can go next when the song is over. Do not be afraid of looking bad, just have fun with it. We were all there before.
 
-If you would like to get in touch with me, my contact info is on the [front page]().
+If you would like to get in touch with me, my contact info is on the [front page](https://aferios.github.io).
 
 This is the [emping](https://github.com/rmsubekti/emping) Jekyll theme based on the default( base ) jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
