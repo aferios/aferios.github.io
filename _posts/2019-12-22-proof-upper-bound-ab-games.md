@@ -5,16 +5,19 @@ date: 2019-12-22
 categories: jekyll update
 ---
 
-In a previous post, I asked to find an upper bound for the number of solutions to the door problem, and here it is.
-Let's rephrase the situation and the question.
+Around the end of September or beginning of October, I played through a trilogy called Zero Escape.
+They revolve around a series of "escape room"-like games.
+The characters pitted have to escape some unknown area by solving puzzles, and they're really nice puzzles to solve.
+If they don't they might die. In the second game of the trilogy, there's a system that dictates how the players
+can navigate the area.
 
-*There are three doors, each assigned a unique color: yellow, cyan, and magenta. Three people must present at this door to open it;
+There are three doors, each assigned a unique color: yellow, cyan, and magenta. Three people must present at this door to open it;
 however, there is a catch. Each person has assigned to them a color--red, green, or blue--and some are assigned a pair.
 Those who are assigned a pair, share the same color. Pairs must never be seperated when traveling through a door.
 Those who are not in pairs are free to travel wherever they please as long as they are able to go through the door.
 To open the door, the players's or pair's colors when mixed must either match the same color,
 or be the color's compliment.
-How many ways are there for this group of people to trvel?*
+How many ways are there for this group of people to travel?*
 
 Let's decompose what is given.
 Three pairs makes a total of six people in pairs. Let's conjure our players by the following label system:
@@ -60,6 +63,12 @@ A pair $u_i$ and singleton $v_j$ will share the same color if $i=j$. This yields
 Solutions of the form $\{(u_i, v_i) \|\ i\in \{ 1,2,3\} \} are valid.
 This is the solution for the complimentary colors of the doors, or the complimentary (C) solution.
 
+I wouldn't really call this much of a proof as much as a calculation. Not to mention, it's pretty ugly as it stands
+since we used a pretty brute-force-y method. It's not pretty; it's not cute; it's not really much of anything.
+
+I read a wonderful piece once by a Professor Bruce Reznick on what to do after you've proved something.
+He says "... water it and make it grow... Return to your theorem. Try to *push* the conclusions... What if you play with the hypothesis?"
+Let's do exactly that. Let's push the limits of our conclusion by tweaking our question.
 
 
 [venn diagram][//assets/img/venn.png]
