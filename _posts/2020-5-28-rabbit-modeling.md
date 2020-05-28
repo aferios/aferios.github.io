@@ -144,6 +144,9 @@ We yield the following graphs.
 
 ![](../assets/img/plots/rabbit_plot.png){:height='5cm' width='5cm'}
 
+The horizontal axis is the time in units of months, since that is how I modeled the weather.
+The vertical axis is the population at that time.
+
 That's pretty brutal. The weather looks fairly harsh on these guys.
 This would explain why birds migrate to warmer areas.
 As for the rabbits, I wouldn't expect to see a lot of them during the winter,
