@@ -159,7 +159,7 @@ At least, I like it. She also does give some pretty good [rabbit care][4] tips,
 so if you're thinking about getting a rabbit, or want to learn more about them she's pretty informative.
 As always, just cross check statements.
 
-I've left my code on my git[git]
+I've left my code on my [git].
 
 [1]: https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations
 [2]: https://youtu.be/mP6LHPIW12M 
