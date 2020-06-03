@@ -14,6 +14,9 @@ My studies do not remain closed in mathematics. During my time at University, I 
 As for the things I like to do outside academics, I enjoy participating in Muay Thai and Brazilian Jiu Jitsu sessions, going to arcades and playing rhythm games or Tekken 7, and simply enjoying fountain pens.
 The arcade games I mainly play, in order of preference, are Pump It Up Prime series, DDRA20, SoundVoltex VividWave, and ITG. 
 As an aside, if anyone is looking to get into any of these games and feels the cabinet is being hogged, please do not hesitate to ask the player if you can go next when the song is over. Do not be afraid of looking bad, just have fun with it. We were all there before.
+I currently write with a Platinum 1377, UEF nib.
+As for pencils, I write with a Pentel Graphgear 1000 0.3HB lead. 
+Unfortunately for me, 0.2 variants are extremely difficult to find in the US.
 
 If you would like to get in touch with me, my contact info is on the [front page](https://aferios.github.io).
 
