@@ -18,7 +18,9 @@ I currently write with a Platinum 3776 with UEF (ultra extra fine) nib.
 As for pencils, I write with a Pentel Graphgear 1000 0.3HB lead. 
 Unfortunately for me, 0.2 variants are extremely difficult to find in the US.
 
-If you would like to get in touch with me, my contact info is on the [front page](https://aferios.github.io).
+If you would like to get in touch with me, my contact info is on the [front page]({{ site.baseurl }}).
+
+---
 
 This is the [emping](https://github.com/rmsubekti/emping) Jekyll theme based on the default( base ) jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
