@@ -21,6 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jemoji
+  - jekyll-lilypond-converter
 
 defaults:
   - {scope: {type: posts}, values: {layout: post, permalink: '/blurb/:title'}}
