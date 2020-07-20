@@ -56,7 +56,7 @@ There is this notion of board $$x$$ comes before board $$y$$.
 <img src="../assets/timeline_viz.gif" width="5cm" height="5cm" />
 ![](./assets/img/timeline_viz.gif){:height='5cm'width='5cm'}
 
-Below is an illustration of how the RNG works.
+Above is an illustration of how the RNG works.
 
 The darker it looks in a region, the more dense the number of RNG calls there are.
 Say the list of numbers representative corresponding to a board is
