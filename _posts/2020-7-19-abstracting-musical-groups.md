@@ -142,7 +142,8 @@ Great. Alright Lewin, I've used your recipe now where are all the other properti
 Well he argues those are given to us for free, and he is absolutely correct.
 We get identity for free. Just take $$int(s,s)$$. We know what that is by the first condition $$int$$ must meet.
 Left composition by inversion yields $$int(s,s)=int_{id}$$. Most algebraists call this special number $$e$$.
-Yes that [$$e$$][4]. Sometimes $$e$$ comes up when you want to take a derivative over and over again and still get the same thing.
+[Yes that $$e$$][4]--the $$e$$ that may come up 
+when you want to take a derivative over and over again and still get the same thing.
 
 Inversion follows very quickly. We get $$int(s,t)=int(t,s)^{-1}$$. We know how to get $$in(s,s)$$ from property A).
 We just apply that and it falls into our laps.
