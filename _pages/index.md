@@ -3,6 +3,8 @@ layout: default
 avatar: true
 permalink: /
 ---
+> **Archived.** This site — including the linked résumé — is old student work (~2018–2020), kept for reference. It reflects who I was then, not a current profile.
+
 # Welcome
 I am a student of mathematics with other interests outside academics. 
 Currently finishing my degree remotely in Chicago, Illinois. My email is alex(dot)f(dot)**last name**(at)gmail
