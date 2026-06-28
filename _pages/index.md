@@ -4,6 +4,8 @@ avatar: true
 permalink: /
 ---
 > **Archived.** This site — including the linked résumé — is old student work (~2018–2020), kept for reference. It reflects who I was then, not a current profile.
+>
+> **Recent civic work (2025):** [Long Avenue Pedestrian &amp; Traffic Safety Report](/assets/LongAve_SafetyReport.pdf) — a pedestrian and bike safety report I authored for Chicago's 30th Ward.
 
 # Welcome
 I am a student of mathematics with other interests outside academics. 
